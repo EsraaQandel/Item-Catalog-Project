@@ -25,5 +25,5 @@ Type **python project.py** to run the Flask web server. In your browser visit **
 
 ## JSON endpoint
 
-visit **http://localhost:8000/category/<path:category_name>/JSON** to view the item of a specific category
+visit **http://localhost:8000/category/< path:category_name>/JSON** to view the item of a specific category
 visit **http://localhost:8000/category/JSON** to view the list of categories   
