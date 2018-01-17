@@ -7,6 +7,7 @@ You develop a RESTful web application using the Python framework Flask along wit
 ### Requiremnets 
 
 1- Install the dependency libraries (Flask, sqlalchemy, requests and oauth2client)
+
 2- Install postgreSQL and pgAdmin 
 
 
