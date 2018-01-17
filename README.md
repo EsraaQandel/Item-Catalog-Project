@@ -14,7 +14,7 @@ You develop a RESTful web application using the Python framework Flask along wit
 
 ## Running the Sports App
 
-Create a database with the name **sportsapp** through pgAdmin. 
+Create a database with the name **sportsapp** through pgAdmin (owber:postgres, pass:postgres). 
 
 Now type **python database_setup.py** to initialize the database.
 
