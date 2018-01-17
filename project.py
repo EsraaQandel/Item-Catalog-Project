@@ -6,6 +6,7 @@ from database_setup import Base, Category, Item, User
 
 from flask import session as login_session
 import random
+import string
 
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.client import FlowExchangeError
